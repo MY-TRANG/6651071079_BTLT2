@@ -1,1 +1,163 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Đăng ký du lịch</title>
+    <style>
+    body {
+        font-family: Arial;
+    }
+    form {
+        width: 370px;
+        margin: 30px auto;
+    }
+    h2 {
+        text-align: center;
+        color: #336699;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse
+        background-color: #ffffcc;
+    }
+    td {
+        border: 1px solid #999;
+        padding: 4px;
+    }
+    td:first-child {
+        width: 90px;                                                      
+    }
+    input[type="text"] {
+        height: 20px;
+    }
+    .hoten {
+        width: 235px;
+    }
+    .diachi {
+        width: 150px;
+    }
+    .dienthoai {
+        width: 105px;
+    }
+    select {
+        width: 245px;
+        height: 22px;
+    }
+    textarea {
+        width: 220px;
+        height: 45px;
+    }
+    .nut {
+        text-align: center;
+    }
+    #thongbao {
+        text-align: center;
+        color: red;
+        font-style: italic;
+    }
+    fieldset {
+        width: 250px;
+        height: 55px;
+        margin: auto;
+        border: 2px solid brown;
+    }
+    legend {
+        color: brown;
+        font-style: italic;
+    }
+    </style>
+    </head>
+    <body>
+        <form>
+            <h2>Đăng ký du lịch</h2>
+            <table>
+                <!-- Họ và tên -->
+                 <tr>
+                    <td>Họ và tên</td>
+                    <td>
+                        <input type="text"
+                        class="hoten"
+                        value="Phạm Ngọc Cẩm Đào">
+                    </td>
+                </tr>
+                 <tr>
+                    <td>Địa chỉ</td>
+                    <td>
+                        <input type="text"
+                        class="diachi"
+                        value="227 Nguyễn Văn Cừ">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Điện thoại</td>
+                    <td>
+                        <input type="text"
+                        class="dienthoai"
+                        value="8351056">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Khách Việt Nam</td>
+                    <td>
+                        <input type="checkbox" checked>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Chọn tour</td>
+                    <td>
+                        <select id="chonTour">
+                            <optgroup label="Miền Bắc">
+                                <option>Hà Nội - Hạ Long - Sapa</option>
+                                <option>Hà Nội - Chùa Hương - Ninh Bình</option>
+                                <option>Hà Nội - Cát Bà - Tuần Châu</option>
+                            </optgroup>
+                            <optgroup label="Miền Trung">
+                                <option>Huế - Bạch Mã - Đà Nẵng</option>
+                                <option>Huế - Bạch Mã - Đà Nẵng</option>
+                                <option>Buôn mê thuột - Gia Lai - Kontum</option>
+                            </optgroup>
+                            <optgroup label="Miền Nam">
+                                <option>TP HCM - Cần Thơ - Cà Mau</option>
+                                <option>TP HCM - Mỹ Tho</option>
+                            </optgroup>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Phương tiện</td>
+                    <td>
+                        <input type="radio"
+                        name="phuongtien"
+                        value="Máy bay"
+                        checked>
+                        Máy bay
+                        <input type="radio"
+                        name="phuongtien"
+                        value="Xe ô tô">
+                        Xe ô tô
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <fieldset>
+                            <legend>Số lượng đoàn khách</legend>
+                            Người lớn
+                            <input type="text"
+                            value="6"
+                            style="
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+}
+}
+}
+}
+}
+}
+}
+}
