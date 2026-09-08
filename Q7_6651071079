@@ -5,42 +5,42 @@
         <title>Công ty Hoa tươi Nhân Ái</title>
         </head>
         <body>
-                <h2 align="center" style="color: #CC0066;">
-                        Công ty Hoa tươi Nhân Ái
-                            </h2>
-                                    <img src="hoa_hong.jpg" height="280" align="left">
-                                            <ol>
-                                                            <li>
-                                                                        <font style="background-color: #FF0066; color: white; font-weight: bold;">
-                                                                                        Giới thiệu
-                                                                                                    </font>
-                                                                                                                <ul type="square">
-                                                                                                                                <li>Thành lập ngày 25/05/2007</li>
-                                                                                                                                                <li>Chuyên cung cấp các loại hoa tươi</li>
-                                                                                                                                                                <li>Có trên 20 cửa hàng bán lẻ tại TP.HCM</li>
-                                                                                                                                                                                <li>Nhận kết giỏ hoa theo yêu cầu của khách hàng</li>
-                                                                                                                                                                                            </ul>
-                                                                                                                                                                                                    </li>
-                                                                                                                                                                                                            <hr>
-                                                                                                                                                                                                                            <li>
-                                                                                                                                                                                                                                        <font style="background-color: #FF0066; color: white; font-weight: bold;">
+            <h2 align="center" style="color: #CC0066;">
+                Công ty Hoa tươi Nhân Ái
+            </h2>
+                <img src="https://tse3.mm.bing.net/th/id/OIP.vkqyO4FLNExmzu08sgJhZAAAAA?r=0&w=417&h=626&rs=1&pid=ImgDetMain&o=7&rm=3" height="280" align="left">
+            <ol>
+            <li>
+            <font style="background-color: #FF0066; color: white; font-weight: bold;">
+                Giới thiệu
+            </font>
+            <ul type="square">
+            <li>Thành lập ngày 25/05/2007</li>
+            <li>Chuyên cung cấp các loại hoa tươi</li>
+            <li>Có trên 20 cửa hàng bán lẻ tại TP.HCM</li>
+            <li>Nhận kết giỏ hoa theo yêu cầu của khách hàng</li>
+            </ul>
+            </li>
+            <hr>
+            <li>
+            <font style="background-color: #FF0066; color: white; font-weight: bold;">
                                                                                                                                                                                                                                                         Liên hệ
-                                                                                                                                                                                                                                                                    </font>
-                                                                                                                                                                                                                                                                                <ul type="circle">
-                                                                                                                                                                                                                                                                                                <li>Điện thoại: 84-08-8351056</li>
-                                                                                                                                                                                                                                                                                                                <li>
-                                                                                                                                                                                                                                                                                                                                    Địa chỉ:
-                                                                                                                                                                                                                                                                                                                                                        <i>227 Nguyễn Văn Cừ, Quận 5, TP.HCM</i>
-                                                                                                                                                                                                                                                                                                                                                                        </li>
-                                                                                                                                                                                                                                                                                                                                                                                    </ul>
-                                                                                                                                                                                                                                                                                                                                                                                            </li>
-                                                                                                                                                                                                                                                                                                                                                                                                </ol>
-                                                                                                                                                                                                                                                                                                                                                                                                    <br><br>
-                                                                                                                                                                                                                                                                                                                                                                                                            <div align="center" style="background-color: #FFCCFF;">
-                                                                                                                                                                                                                                                                                                                                                                                                                    &copy; <b>Copyright:</b>
-                                                                                                                                                                                                                                                                                                                                                                                                                            <a href="http://www.csc.hcmuns.edu.vn">
-                                                                                                                                                                                                                                                                                                                                                                                                                                        <b><u>Trung Tâm Tin Học - Đại Học Khoa Học Tự Nhiên TP.HCM</u></b>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                </a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    </body>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    </html>
+            </font>
+            <ul type="circle">
+            <li>Điện thoại: 84-08-8351056</li>
+            <li>
+                Địa chỉ:
+            <i>227 Nguyễn Văn Cừ, Quận 5, TP.HCM</i>
+            </li>
+            </ul>
+            </li>
+            </ol>
+            <br><br>
+            <div align="center" style="background-color: #FFCCFF;">
+                &copy; <b>Copyright:</b>
+            <a href="http://www.csc.hcmuns.edu.vn">
+            <b><u>Trung Tâm Tin Học - Đại Học Khoa Học Tự Nhiên TP.HCM</u></b>
+            </a>
+            </div>
+        </body>
+</html>
